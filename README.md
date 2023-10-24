@@ -6,4 +6,4 @@ Data collected from :
 - NCBI - GENE
 - Gene cards
 
-  
+The database is related to Amyotrophic Lateral Sclerosis.
