@@ -1,4 +1,4 @@
-# MySQL
+# Biological Database
 
 Creation and implementation of a biological database
 
